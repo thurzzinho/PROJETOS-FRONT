@@ -37,7 +37,7 @@ Para a construção dos projetos, utilizo as ferramentas:
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/thurzzinho/HTML.git
+   git clone https://github.com/thurzzinho/PROJETOS-FRONT.git
 
 2. **acesse a pasta:**
    ```bash
