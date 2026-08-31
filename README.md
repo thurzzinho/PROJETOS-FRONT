@@ -8,7 +8,7 @@
 
 ## 📌 Sobre o Repositório
 
-O objetivo deste Repositório é documentar minha evolução no desenvolvimento web. Cada pasta dentro deste repositório contém um projeto único, focado em praticar semântica HTML, estilização moderna e interatividade.
+O objetivo deste Repositório é documentar minha evolução no desenvolvimento web. Cada pasta dentro deste repositório contém um projeto único, focado em praticar semântica HTML, estilização moderna com CSS e interatividade com JavaScript
 
 ---
 
